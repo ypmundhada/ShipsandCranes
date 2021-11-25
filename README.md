@@ -1,4 +1,5 @@
 # ShipsandCranes
+Please view this file raw.
 Test cases and Flow of code
 Lets now analyze our code for the following test case :-
 First the interface will ask for the specifications of the ship.
